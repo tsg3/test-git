@@ -1,3 +1,3 @@
 # Testeo Git
 
-Descripción del testeo
+Descripción del test
